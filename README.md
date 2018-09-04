@@ -1,6 +1,6 @@
 # MurrayTracker
 
-#### By Brandon Fiebiger, Kurt Miller, and Jesse Mcfadden
+#### By <a href="https://github.com/brandonfiebiger"> Brandon Fiebiger</a>, <a href="https://github.com/kmiller9393">Kurt Miller</a>, and <a href="https://github.com/JesseMcBrennan">Jesse Mcfadden</a>
 
 ### Project
 
