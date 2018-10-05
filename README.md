@@ -10,7 +10,16 @@ We used Enzyme and Jest to build out our testing suite.
 
 #### Getting Started
 
-After cloning down this repo, npm install and npm start. Once your browser is up and running you're ready to see the finest Murray films available.
+1) clone down this repository.
+
+2) cd into the back-end directory and run npm start.
+
+3) cd into the movie-tracker directory within the root directory.
+
+4) npm install.
+
+5) npm start.
+
 
 #### User Interaction
 
